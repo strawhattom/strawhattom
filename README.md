@@ -4,7 +4,7 @@
 
 ## ⚡ About me 
 
-I am a 20 years old french student in computer engineering. DevOps wannabe 🤖.
+I am a 20 years old french student in computer engineering. DevSecOps wannabe 🤖.
 
 ## 🔭 Languages
 
