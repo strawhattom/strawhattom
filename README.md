@@ -26,6 +26,9 @@ I am a 20 years old french student in computer engineering. DevSecOps wannabe ğŸ
 
 - ğŸ“« How to reach me : xie.tom7@gmail.com
 
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strawhattom&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="strawhattom's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawhattom&layout=compact&hide=jupyter%20notebook&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="strawhattom's top langs" />
+</a>
