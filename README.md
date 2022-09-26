@@ -1,7 +1,4 @@
 # <p align="center"> Hi, i'm Tom 🥤 </p>
-
-<p align="center"> <i>don't wet your eyes, everybody's watching</i> </p>
-
 ## ⚡ About me 
 
 I am a 20 years old french student in computer engineering. DevSecOps wannabe 🤖.
