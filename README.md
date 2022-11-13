@@ -1,7 +1,7 @@
 # <p align="center"> Hi, i'm Tom 🥤 </p>
 ## ⚡ About me 
 
-I am a 20 years old french student in computer engineering. DevSecOps wannabe 🤖.
+I am a 20 years old french student in computer engineering.
 
 ## 🔭 Languages
 
